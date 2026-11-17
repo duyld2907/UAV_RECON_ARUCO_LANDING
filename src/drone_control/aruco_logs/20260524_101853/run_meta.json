@@ -1,0 +1,11 @@
+{
+  "created_at": "20260524_101853",
+  "debug_video": "/ws/src/drone_control/aruco_logs/20260524_101853/aruco_debug.avi",
+  "raw_video": null,
+  "video_fps": 15.0,
+  "video_stride": 2,
+  "video_codec": "MJPG",
+  "image_topic": "/camera/bottom/image_raw",
+  "large_id": 150,
+  "small_id": 40
+}
