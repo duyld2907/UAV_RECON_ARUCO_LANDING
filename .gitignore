@@ -3,6 +3,8 @@ build/
 .agents
 .codex
 detect_logs/
-aruco_logs/
-aruco_debug/
+aruco_logs
+aruco_debug
 hinh_quy_dao/plot_env
+
+__pycache__
